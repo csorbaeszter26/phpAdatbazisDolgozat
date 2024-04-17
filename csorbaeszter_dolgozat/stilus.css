@@ -1,0 +1,16 @@
+body {
+	margin: 300px;
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center;
+}
+
+table, td, th{
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+
+td, th{
+    padding: 5px;
+    text-align: center;
+}
